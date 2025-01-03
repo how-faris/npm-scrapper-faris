@@ -6,7 +6,7 @@
   <img src="https://img.shields.io/npm/l/npm-scrapper-faris?style=flat-square" alt="license" />
 </p>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Charm&duration=2000&pause=1000&color=00FFFF&center=true&vCenter=true&width=435&lines=Created+With+%F0%9F%A4%8D+By+Faris+Ali+%E2%86%92;It's+Not+Just+a+Name+Bro+%E2%86%90;It's+a+Brand+%E2%86%92+%F0%9F%A5%87)](https://git.io/typing-svg)
+[![A Brand](https://readme-typing-svg.herokuapp.com?font=Charm&duration=2000&pause=1000&color=00FFFF&background=000000&center=true&vCenter=true&width=435&lines=Created+With+%F0%9F%A4%8D+By+Faris+Ali+%E2%86%92;It's+Not+Just+a+Name+Bro+%E2%86%90;It's+a+Brand+%E2%86%92+%F0%9F%A5%87)]([https://git.io/typing-svg](https://www.npmjs.com/package/npm-scrapper-faris))
 
 ### 📝 About
 **npm-scrapper-faris** is a lightweight npm package designed to scrape and extract information about any npm package. Whether you're a developer exploring package metadata or an enthusiast curious about npm stats, this tool simplifies the process with ease.
