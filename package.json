@@ -1,6 +1,6 @@
 {
   "name": "npm-scrapper-faris",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A lightweight package to scrape and extract metadata for npm packages.",
   "main": "index.js",
   "scripts": {
